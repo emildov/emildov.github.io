@@ -1,0 +1,22 @@
+h1 {
+    font-size: 80;
+    text-align: center;
+}
+h2 {
+    font-size: 30;
+    text-align: center; 
+}
+
+nav {
+    background-color: blue;
+    align-items: center;
+}
+
+header {
+    background-color: blue;
+    vertical-align: super;
+}
+
+img {
+    float:left;
+}
