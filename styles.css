@@ -8,12 +8,12 @@ h2 {
 }
 
 nav {
-    background-color: blue;
+    background-color: rgb(53, 53, 126);
     align-items: center;
 }
 
 header {
-    background-color: blue;
+    background-color: rgb(53, 53, 126);
     vertical-align: super;
 }
 
